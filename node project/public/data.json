@@ -1,0 +1,44 @@
+{
+    "jeans": [
+      {
+        "rate": 500,
+        "image": "random image",
+        "color": "red",
+        "size": "32",
+        "brand": "brand",
+        "sellerName": "sellerName"
+      },
+      {
+        "rate": 400,
+        "image": "random image",
+        "color": "red",
+        "size": "32",
+        "brand": "brand",
+        "sellerName": "sellerName"
+      },
+      {
+        "rate": 600,
+        "image": "random image",
+        "color": "red",
+        "size": "32",
+        "brand": "brand",
+        "sellerName": "sellerName"
+      },
+      {
+        "rate": 700,
+        "image": "random image",
+        "color": "red",
+        "size": "32",
+        "brand": "brand",
+        "sellerName": "sellerName"
+      },
+      {
+        "rate": 800,
+        "image": "random image",
+        "color": "red",
+        "size": "32",
+        "brand": "brand",
+        "sellerName": "sellerName"
+      }
+    ]
+  }
